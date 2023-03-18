@@ -321,7 +321,7 @@ button {
 
 .banner_section {
     width: 100%;    
-    min-height: 100vh;
+    /* min-height: 100vh; */
     max-height: fit-content;
     float: left;
     background: linear-gradient( to right  , rgba(0, 0, 0, 0.705)  , rgba(0, 0, 0, 0.37)  , rgba(0, 0, 0, 0) );
